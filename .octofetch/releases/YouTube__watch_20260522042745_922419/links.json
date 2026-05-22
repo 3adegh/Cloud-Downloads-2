@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1736",
+  "folder": "YouTube__watch_20260522042745_922419",
+  "base_name": "LE_SSERAFIM_(_)_BOOMPALA_OFFICIAL_MV_V1Lr-_AxeR8_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/3adegh/Cloud-Downloads-2/releases/tag/co-releases-v1-1736",
+  "files": [
+    {
+      "name": "LE_SSERAFIM_._._BOOMPALA_OFFICIAL_MV_V1Lr-_AxeR8_1080p.mp4",
+      "url": "https://github.com/3adegh/Cloud-Downloads-2/releases/download/co-releases-v1-1736/LE_SSERAFIM_._._BOOMPALA_OFFICIAL_MV_V1Lr-_AxeR8_1080p.mp4",
+      "api_url": "https://api.github.com/repos/3adegh/Cloud-Downloads-2/releases/assets/426754961",
+      "id": 426754961,
+      "size": 121789116,
+      "download_count": 0
+    }
+  ]
+}
