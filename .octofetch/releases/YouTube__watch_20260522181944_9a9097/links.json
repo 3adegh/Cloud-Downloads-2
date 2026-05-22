@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7225",
+  "folder": "YouTube__watch_20260522181944_9a9097",
+  "base_name": "SF9_Tear_Drop_MUSIC_VIDEO_Z0Je7eSXA5s_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/3adegh/Cloud-Downloads-2/releases/tag/co-releases-v1-7225",
+  "files": [
+    {
+      "name": "SF9_Tear_Drop_MUSIC_VIDEO_Z0Je7eSXA5s_1080p.mp4",
+      "url": "https://github.com/3adegh/Cloud-Downloads-2/releases/download/co-releases-v1-7225/SF9_Tear_Drop_MUSIC_VIDEO_Z0Je7eSXA5s_1080p.mp4",
+      "api_url": "https://api.github.com/repos/3adegh/Cloud-Downloads-2/releases/assets/427281434",
+      "id": 427281434,
+      "size": 74083936,
+      "download_count": 0
+    }
+  ]
+}
